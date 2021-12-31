@@ -116,6 +116,11 @@ main center h2
     font-size: 50px;
 }
 
+video
+{
+    border-radius: 7%;
+}
+
 
 footer
 {
@@ -135,7 +140,7 @@ footer
 
 footer h2
 {
-    margin: 20px 0px;
+    margin: 20px 0px ;
 }
 
 footer a:link
