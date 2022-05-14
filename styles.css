@@ -8,9 +8,8 @@
     /*margin-top: -10px;
     margin-left: -10px;
     margin-right: -8px;*/
-    background: rgb(238,174,202);
-    /*background: linear-gradient(0deg, rgba(238,174,202,1) 0%, rgba(217,180,212,1) 37%, rgba(148,187,233,1) 87%);*/
-    background-image: linear-gradient(to bottom, #000000, #242424, #505050);
+    background: rgb(214,0,255);
+    background: linear-gradient(0deg, rgba(214,0,255,1) 0%, rgba(171,16,231,1) 25%, rgba(107,46,101,1) 63%, rgba(64,40,64,1) 100%);
     position: fixed;
     top: 0;
     left: 0;
@@ -56,8 +55,8 @@ body
 {
     /*background: rgb(238,174,202);*/
     /*background: linear-gradient(180deg, rgba(238,174,202,1) 0%, rgba(217,180,212,1) 37%, rgba(148,187,233,1) 87%);*/
-    background-image: linear-gradient(to bottom,#505050, #242424, #000000);
-    background-color: #000000;
+    background: rgb(64,40,64);
+    background: linear-gradient(0deg, rgba(64,40,64,1) 0%, rgba(107,46,101,1) 25%, rgba(171,16,231,1) 63%, rgba(214,0,255,1) 100%);
     min-height: 100vh;
     margin: 0px;
     display: flex;
